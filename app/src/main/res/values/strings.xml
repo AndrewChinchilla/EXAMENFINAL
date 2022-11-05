@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExamenAppStudio</string>
+    <string name="hint_username">USUARIO:</string>
+    <string name="hint_password">PASSWORD:</string>
+    <string name="btn_guardar">GUARDAR:</string>
+    <string name="menu_nuevo">NUEVO REGISTRO:</string>
+</resources>
